@@ -1,11 +1,14 @@
 ## Hi there 👋
 o Una breve presentación personal
+
 Me presento mi nombre es Diego y soy profesional de telecomunicaciones, He hecho algunos trabajo relacionados a mi carrera pero tambien he estudiado por medio de cursos algunas areas de informatica para complementar mis estudios y conocimientos del area en general.
 
 o Tus intereses o tecnologías que dominas
+
 entre mis intereses personales estan los videojuegos xd y tecnologias que manejo son pocas recien algo de programacion basica de front, algunas herramientas de DevOps y un manejo nivel principiante de la nube de AWS para realizar algunos proyectos personales que he probado.
 
 o Un saludo o mensaje de bienvenida
+
 Les doy un cordial saludo y intentare usar mas esta plataforma cuando tenga tiempo para probar ciertas tareas xd
 <!--
 **DiegoStudy/DiegoStudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
